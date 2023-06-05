@@ -1,0 +1,6 @@
+#!/bin/bash
+# Audio script for chrome devices
+
+set -e
+source conf/functions.sh
+source conf/boards.sh
